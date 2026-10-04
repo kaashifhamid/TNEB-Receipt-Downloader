@@ -115,3 +115,4 @@ This is an unofficial tool, not affiliated with TNEB / TANGEDCO. It relies on th
 ## License
 
 Choose a license for your repository (e.g. MIT) and add a `LICENSE` file.
+Vibe Coded and tested.
